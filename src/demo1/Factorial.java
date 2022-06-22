@@ -20,7 +20,7 @@ System.out.println("Enter a Number= ");
  {
 	 fact=fact*i;
  }
- System.out.println(fact);
+ System.out.println("Entered number is:"+fact);
 		
 }
 
