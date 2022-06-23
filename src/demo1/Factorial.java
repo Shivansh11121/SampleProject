@@ -20,7 +20,7 @@ System.out.println("Enter a Number= ");
  {
 	 fact=fact*i;
  }
- System.out.println("Factorial is: "+fact);
+ System.out.println(fact);
 		
 }
 
